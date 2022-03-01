@@ -22,7 +22,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/aws/SSMCLI/src/config"
+	"github.com/aws/session-manager-plugin/pkg/config"
 
 	"github.com/aws/aws-sdk-go/service/ssm"
 	"github.com/aws/session-manager-plugin/pkg/datachannel"
